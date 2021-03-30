@@ -37,7 +37,7 @@ body {
 .task {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .wrapper {
@@ -139,7 +139,7 @@ h3,
 }
 
 .list .txt {
-  width: 226px
+  width: 226px;
 }
 
 .delete:hover {
@@ -164,12 +164,12 @@ h3,
 
 /* Edit Task */
 .list .txt {
-  display: none
+  display: none;
 }
 
 .edit-mode .txt {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode label {
