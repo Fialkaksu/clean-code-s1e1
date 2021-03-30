@@ -5,30 +5,32 @@ body {
   font-family: Lato, sans-serif;
 }
 
-.more {
+/* header */
+header {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
 
-.more img {
+#matrix {
   width: 100%;
 }
 
-.more-info {
+.details {
   font-family: fantasy, cursive;
 }
 
 @media (max-width:768px) {
 
-  .more {
+  header {
     text-align: center;
   }
 
 }
 
-.main {
+/* main */
+main {
   display: block;
   width: 500px;
   margin: 0 auto 0;
